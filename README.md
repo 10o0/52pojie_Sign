@@ -1,6 +1,6 @@
 # 吾爱破解自动签到Github Action 版
 
-## 使用说明
+## 使用说明@
 0.获取你的Cookie
  - 在网页浏览器中登录你的吾爱账号.然后F12打开浏览器控制台.刷新当前页面.在网络(NewWork)这一栏,找到第一个网络请求.如图
  ![image](https://user-images.githubusercontent.com/30728105/203260271-bff2cc1b-9a85-479c-8536-13bef415d20e.png)
